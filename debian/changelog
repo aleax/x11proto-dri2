@@ -1,0 +1,5 @@
+x11proto-dri2 (1.1-1) UNRELEASED; urgency=low
+
+  * Initial release.
+
+ -- Julien Cristau <jcristau@debian.org>  Wed, 23 Apr 2008 20:06:01 +0200
