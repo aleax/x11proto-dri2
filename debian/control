@@ -5,8 +5,8 @@ Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
 Uploaders: Julien Cristau <jcristau@debian.org>
 Build-Depends: debhelper, autoconf
 Standards-Version: 3.7.3
-XS-Vcs-Git: git://git.debian.org/git/pkg-xorg/proto/x11proto-dri2
-XS-Vcs-Browser: http://git.debian.org/?p=pkg-xorg/proto/x11proto-dri2.git
+Vcs-Git: git://git.debian.org/git/pkg-xorg/proto/x11proto-dri2
+Vcs-Browser: http://git.debian.org/?p=pkg-xorg/proto/x11proto-dri2.git
 
 Package: x11proto-dri2-dev
 Architecture: all
