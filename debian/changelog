@@ -1,3 +1,9 @@
+x11proto-dri2 (2.0-1) UNRELEASED; urgency=low
+
+  * New upstream release.
+
+ -- Julien Cristau <jcristau@debian.org>  Mon, 08 Jun 2009 16:41:48 +0200
+
 x11proto-dri2 (1.99.3-1) unstable; urgency=low
 
   [ Timo Aaltonen ]
