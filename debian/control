@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
 Uploaders: Julien Cristau <jcristau@debian.org>
 Build-Depends: debhelper, autoconf, automake, xutils-dev (>= 1:7.4+4)
-Standards-Version: 3.8.0
+Standards-Version: 3.8.1
 Vcs-Git: git://git.debian.org/git/pkg-xorg/proto/x11proto-dri2
 Vcs-Browser: http://git.debian.org/?p=pkg-xorg/proto/x11proto-dri2.git
 
