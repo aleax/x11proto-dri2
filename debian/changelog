@@ -1,6 +1,7 @@
 x11proto-dri2 (2.0-1) UNRELEASED; urgency=low
 
   * New upstream release.
+  * Add build-dep on xutils-dev >= 1:7.4+4.
 
  -- Julien Cristau <jcristau@debian.org>  Mon, 08 Jun 2009 16:41:48 +0200
 
