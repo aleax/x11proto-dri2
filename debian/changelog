@@ -1,3 +1,9 @@
+x11proto-dri2 (2.2-1) UNRELEASED; urgency=low
+
+  * New upstream release. (LP: #377090)
+
+ -- Timo Aaltonen <tjaalton@ubuntu.com>  Sat, 09 Jan 2010 02:26:40 +0200
+
 x11proto-dri2 (2.1-1) unstable; urgency=low
 
   * New upstream release.
