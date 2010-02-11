@@ -1,14 +1,14 @@
 x11proto-dri2 (2.2-1) UNRELEASED; urgency=low
 
   [ Timo Aaltonen ]
-  * New upstream release. (LP: #377090)
+  * New upstream release. (LP: #377090, closes: #569259)
 
   [ Julien Cristau ]
   * Rename the build directory to not include DEB_BUILD_GNU_TYPE for no
     good reason.  Thanks, Colin Watson!
   * Remove myself from Uploaders
 
- -- Timo Aaltonen <tjaalton@ubuntu.com>  Sat, 09 Jan 2010 02:26:40 +0200
+ -- Brice Goglin <bgoglin@debian.org>  Thu, 11 Feb 2010 13:52:42 +0100
 
 x11proto-dri2 (2.1-1) unstable; urgency=low
 
