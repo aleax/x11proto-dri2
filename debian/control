@@ -2,7 +2,7 @@ Source: x11proto-dri2
 Section: x11
 Priority: optional
 Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
-Uploaders: Brice Goglin <bgoglin@debian.org>
+Uploaders: Brice Goglin <bgoglin@debian.org>, Cyril Brulebois <kibi@debian.org>
 Build-Depends: debhelper, autoconf, automake, xutils-dev (>= 1:7.5~1)
 Standards-Version: 3.8.2
 Vcs-Git: git://git.debian.org/git/pkg-xorg/proto/x11proto-dri2
