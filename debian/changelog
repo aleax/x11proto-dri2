@@ -1,4 +1,4 @@
-x11proto-dri2 (2.3-1) UNRELEASED; urgency=low
+x11proto-dri2 (2.3-1) unstable; urgency=low
 
   * New upstream release.
   * Add myself to Uploaders.
@@ -7,7 +7,7 @@ x11proto-dri2 (2.3-1) UNRELEASED; urgency=low
     XORG_DEFAULT_OPTIONS in configure.ac).
   * Bump Standards-Version from 3.8.2 to 3.8.4 (no changes needed).
 
- -- Cyril Brulebois <kibi@debian.org>  Tue, 06 Apr 2010 04:17:43 +0200
+ -- Cyril Brulebois <kibi@debian.org>  Tue, 06 Apr 2010 15:23:52 +0200
 
 x11proto-dri2 (2.2-2) unstable; urgency=low
 
