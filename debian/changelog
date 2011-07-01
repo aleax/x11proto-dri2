@@ -1,10 +1,10 @@
-x11proto-dri2 (2.6-2) oneiric; urgency=low
+x11proto-dri2 (2.6-2) unstable; urgency=low
 
   * Mark x11proto-dri2-dev Multi-Arch: foreign.
   * Install .pc file to /usr/share/pkgconfig instead of
     /usr/lib/pkgconfig
 
- -- Steve Langasek <steve.langasek@ubuntu.com>  Fri, 01 Jul 2011 17:58:26 +0100
+ -- Steve Langasek <vorlon@debian.org>  Fri, 01 Jul 2011 17:58:26 +0100
 
 x11proto-dri2 (2.6-1) unstable; urgency=low
 
