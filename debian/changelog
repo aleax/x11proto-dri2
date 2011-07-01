@@ -1,6 +1,8 @@
 x11proto-dri2 (2.6-2) UNRELEASED; urgency=low
 
   * Mark x11proto-dri2-dev Multi-Arch: foreign.
+  * Install .pc file to /usr/share/pkgconfig instead of
+    /usr/lib/pkgconfig
 
  -- Steve Langasek <vorlon@debian.org>  Fri, 01 Jul 2011 17:12:54 +0100
 
