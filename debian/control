@@ -16,6 +16,7 @@ Vcs-Browser: http://git.debian.org/?p=pkg-xorg/proto/x11proto-dri2.git
 Package: x11proto-dri2-dev
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
+Multi-Arch: foreign
 Description: X11 DRI2 extension wire protocol
  This package provides development headers describing the wire protocol
  for the DRI2 extension, used to organise direct rendering support
