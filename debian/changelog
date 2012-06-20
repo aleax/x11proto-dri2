@@ -1,3 +1,10 @@
+x11proto-dri2 (2.7-1) UNRELEASED; urgency=low
+
+  [ Maarten Lankhorst ]
+  * New upstream release.
+
+ -- Maarten Lankhorst <maarten.lankhorst@canonical.com>  Wed, 20 Jun 2012 13:52:22 +0200
+
 x11proto-dri2 (2.6-2) unstable; urgency=low
 
   * Mark x11proto-dri2-dev Multi-Arch: foreign.
