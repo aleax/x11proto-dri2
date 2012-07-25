@@ -1,9 +1,9 @@
-x11proto-dri2 (2.8-1) UNRELEASED; urgency=low
+x11proto-dri2 (2.8-1) experimental; urgency=low
 
   [ Maarten Lankhorst ]
   * New upstream release.
 
- -- Maarten Lankhorst <maarten.lankhorst@canonical.com>  Thu, 12 Jul 2012 14:55:45 +0200
+ -- Julien Cristau <jcristau@debian.org>  Wed, 25 Jul 2012 09:35:27 +0200
 
 x11proto-dri2 (2.6-2) unstable; urgency=low
 
