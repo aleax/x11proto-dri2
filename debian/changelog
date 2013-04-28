@@ -1,3 +1,10 @@
+x11proto-dri2 (2.8-1~bpo70+1) wheezy-backports; urgency=low
+
+  * Rebuild for wheezy-backports.
+  * Upload to wheezy-graphics-next
+
+ -- Alexey Bondarchuk <alexey.bondarchuk@aleax.me>  Sun, 28 Apr 2013 15:27:32 +0300
+
 x11proto-dri2 (2.8-1) experimental; urgency=low
 
   [ Maarten Lankhorst ]
